@@ -1,3 +1,4 @@
+![osage](https://nekoann.neocities.org/images/osage-winlite.png)
 ```
 ┌───────┐
 │ mrrp~ │
